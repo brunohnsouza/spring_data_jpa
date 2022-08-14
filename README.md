@@ -2,8 +2,8 @@
 
 - Update **AlunoUpdateForm.java** with the characteristics of **AlunoForm.java**;
 - **AvaliacaoFisicaUpdateForm.java** has also been updated with features from **AvaliacaoFisicaForm.java**;
-- *Instructor:** Camila Cavalcante;
-- *Original project (GitHub)**: cami-la/academia-digital
+- **Instructor:** Camila Cavalcante;
+- **Original project (GitHub)**: cami-la/academia-digital
 
 ### 🔧 TOOLS AND TECHNOLOGIES USED:
 - JAVA 11;
